@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 0879a84d1b88fda4d95de5e058f62661
+  - enabled: 1
+    path: Assets/Scenes/TestScene.unity
+    guid: e81a00096984e96438c349ad093370f8
+  - enabled: 1
+    path: Assets/Scenes/field.unity
+    guid: f0b46976d95814d4fa8e12801de3b2c1
+  - enabled: 1
+    path: Assets/Scenes/skillTree.unity
+    guid: 15bca0bf02be34b48a64651633cd6756
+  - enabled: 1
+    path: Assets/Scenes/DeckCardSetting.unity
+    guid: 95d704ac7115e7e4ba8c926e903629f2
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: a83b7db1ee7e39448a237c4fad0e53b7
+  - enabled: 1
+    path: Assets/Scenes/Lose.unity
+    guid: 6d5decd2d1c325c4fab10a2d89bcdc85
+  m_configObjects: {}
